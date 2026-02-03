@@ -1,0 +1,5 @@
+{
+  "name": "MineAI Addon Architect",
+  "description": "A state-of-the-art AI-powered Minecraft Addon generator that creates .mcaddon files from natural language descriptions, complete with AI-generated textures and realistic renders.",
+  "requestFramePermissions": []
+}
